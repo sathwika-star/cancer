@@ -1,0 +1,5 @@
+patient_id,gene,ref_codon,alt_codon,protein_position
+DEMO-001,EGFR,CTG,CGG,858
+DEMO-001,BRAF,GTG,GAG,600
+DEMO-002,KRAS,GGT,GAT,12
+DEMO-002,TP53,CGC,TGC,248
